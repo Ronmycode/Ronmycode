@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
+<a href="www.linkedin.com/in/ronee-rodriguez-39b1633a"><img align="left" alt="GitHub" width="30px" src="[https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" style="padding:10px;" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ronee Rodriguez) 
 
 # 💻 Tech Stack:
